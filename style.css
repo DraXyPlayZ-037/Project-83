@@ -1,0 +1,30 @@
+body {
+    background-image: url("back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#title {
+    color: lightslategray;
+    font-family: monospace;
+}
+
+#mycanvas {
+    background-color: honeydew;
+    border: black dashed 7px;
+    margin-bottom: 30px;
+}
+
+#iut {
+    background-color: red;
+    color: black;
+    font-family: fantasy;
+}
+
+#colorv {
+    font-family: serif;
+}
+
+#linev {
+    font-family: serif;
+}
